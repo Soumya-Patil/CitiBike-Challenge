@@ -1,31 +1,7 @@
-# CitiBike-Challenge
+# The Tableau Workbook looks in to the following questions for analysis and observes two unusual Phenomenon.
 
-How many trips have been recorded total during the 2019 period?
+# Phenomenon #1
+In 2019 , that is before the Pandemic COVID 19 , the age group 25-45 took more than 20,000 trips altogether ; but in 2020 it significantly reduced to as low as 5,000 trips for the very same age group ; meanwhile for the age 50 years old it stayed roughly same at 25,000 trips both before and after the Pandemic .
 
-What were the peak hours in which bikes are used during summer months of 2019? JUNE - AUGUST
-
-What are the peak hours in which bikes are used during winter months of 2019? JANUARY - MARCH
-
-What were the top 10 stations in the city for starting a journey in 2019?
-
-what were the top 10 stations in the city for ending a journey in 2019?
-
-what was the gender breakdown of active participants in 2019 (Male v. Female)?
-
-How does the average trip duration change by age?
-
-How variable is the utilization by bike ID in 2019?
-
-Number of Trips taken during March April May June of 2020 .
-
-Number of Trips taken during March April May June of 2019.
-
-AgeVsNumberOfTrips2019
-
-AgeVsNumberOfTrips2020
-
-
-### Dashboard Trips2019Vs2020
-### Dashboard PeakHoursAndSeasons
-### Static Map of all the Start Stations
-### Story Trends in Trips Before and After COVID 19
+# Phenomenon #2
+Across 24 hours of a single Day ,  Trips in summer months happened to be almost double as the winter months ; in winters it was an average of  2500 trips where as it reached as high as 4000- 5000 trips in Summer.
